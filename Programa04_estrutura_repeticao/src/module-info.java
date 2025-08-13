@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Programa04_estrutura_repeticao {
+module programa04_estrutura_repeticao {
 }
