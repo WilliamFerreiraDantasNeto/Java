@@ -1,4 +1,4 @@
-package programa04_estrutura_repeticao;
+package programa04_estrutura_repeticao_while;
 
 import java.util.Scanner;
 
