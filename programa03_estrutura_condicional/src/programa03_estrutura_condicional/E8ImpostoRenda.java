@@ -3,7 +3,7 @@ package programa03_estrutura_condicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ImpostoRenda {
+public class E8ImpostoRenda {
 
 	public static void main(String[] args) {
 		/*Leia um valor com duas casas decimais, equivalente ao salário.

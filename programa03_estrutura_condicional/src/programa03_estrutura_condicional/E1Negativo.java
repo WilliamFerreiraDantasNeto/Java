@@ -2,7 +2,7 @@ package programa03_estrutura_condicional;
 
 import java.util.Scanner;
 
-public class Negativo {
+public class E1Negativo {
 
 	public static void main(String[] args) {
 		

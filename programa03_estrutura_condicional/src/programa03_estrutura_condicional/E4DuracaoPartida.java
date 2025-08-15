@@ -2,7 +2,7 @@ package programa03_estrutura_condicional;
 
 import java.util.Scanner;
 
-public class DuracaoPartida {
+public class E4DuracaoPartida {
 
 	public static void main(String[] args) {
 		

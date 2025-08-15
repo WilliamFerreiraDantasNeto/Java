@@ -2,7 +2,7 @@ package programa03_estrutura_condicional;
 
 import java.util.Scanner;
 
-public class ContaAPagar {
+public class E5ContaAPagar {
 
 	public static void main(String[] args) {
 		

@@ -2,7 +2,7 @@ package programa03_estrutura_condicional;
 
 import java.util.Scanner;
 
-public class Multiplos {
+public class E3Multiplos {
 
 	public static void main(String[] args) {
 		

@@ -3,7 +3,7 @@ package programa03_estrutura_condicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class NoIntervalo {
+public class E6NoIntervalo {
 
 	public static void main(String[] args) {
 		/* leia um valor qualquer e apresente uma mensagem 

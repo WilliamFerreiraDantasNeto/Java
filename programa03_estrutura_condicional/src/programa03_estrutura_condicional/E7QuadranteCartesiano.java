@@ -3,7 +3,7 @@ package programa03_estrutura_condicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class QuadranteCartesiano {
+public class E7QuadranteCartesiano {
 
 	public static void main(String[] args) {
 		/*Leia 2 valores com uma casa decimal (x e y), 
