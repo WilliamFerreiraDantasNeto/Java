@@ -3,7 +3,7 @@ package programa02_estrutura_sequencial;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Area_formas {
+public class E6AreaFormas {
 
 	public static void main(String[] args) {
 		/*Fazer um programa que leia três valores com ponto flutuante de dupla 

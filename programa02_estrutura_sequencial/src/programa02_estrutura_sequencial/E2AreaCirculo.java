@@ -3,7 +3,7 @@ package programa02_estrutura_sequencial;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Area_circulo {
+public class E2AreaCirculo {
 	public static void main(String[] args) {
 		/*Faça um programa para ler o valor do raio
 		 *  de um círculo, e depois mostrar o valor 

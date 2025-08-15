@@ -2,7 +2,7 @@ package programa02_estrutura_sequencial;
 
 import java.util.Scanner;
 
-public class Diferenca_produto {
+public class E3DiferencaProduto {
 
 	public static void main(String[] args) {
 		/*Fazer um programa para ler quatro valores 

@@ -3,7 +3,7 @@ package programa02_estrutura_sequencial;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Salario_hora {
+public class E4SalarioHora {
 
 	public static void main(String[] args) {
 		/*Fazer um programa que leia o número de um funcionário, 

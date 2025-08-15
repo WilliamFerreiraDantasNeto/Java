@@ -3,7 +3,7 @@ package programa02_estrutura_sequencial;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Valor_a_pagar {
+public class E5ValorAPagar {
 
 	public static void main(String[] args) {
 		/*Fazer um programa para ler o código de uma peça 1, 

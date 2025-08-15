@@ -2,7 +2,7 @@ package programa02_estrutura_sequencial;
 
 import java.util.Scanner;
 
-public class Soma {
+public class E1Soma {
 
 	public static void main(String[] args) {
 		/*Faça um programa para ler dois valores inteiros, 
