@@ -1,8 +1,8 @@
-package programa04_estrutura_repeticao_for;
+package exercicio2For;
 
 import java.util.Scanner;
 
-public class PotenciaCubica {
+public class E6PotenciaCubica {
 
 	public static void main(String[] args) {
 		/*ler um número inteiro positivo N. O programa deve então mostrar 

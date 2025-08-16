@@ -1,9 +1,9 @@
-package programa04_estrutura_repeticao_for;
+package exercicio2For;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Media {
+public class E3MediaPonderada {
 
 	public static void main(String[] args) {
 		/*Leia 1 valor inteiro N, que representa o número de casos de teste que vem a 

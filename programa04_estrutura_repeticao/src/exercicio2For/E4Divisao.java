@@ -1,9 +1,9 @@
-package programa04_estrutura_repeticao_for;
+package exercicio2For;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Divisao {
+public class E4Divisao {
 
 	public static void main(String[] args) {
 		/*ler um número N. Depois leia N pares de números e mostre a divisão

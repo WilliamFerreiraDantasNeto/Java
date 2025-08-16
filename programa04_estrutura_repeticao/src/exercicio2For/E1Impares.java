@@ -1,8 +1,8 @@
-package programa04_estrutura_repeticao_for;
+package exercicio2For;
 
 import java.util.Scanner;
 
-public class Impares {
+public class E1Impares {
 
 	public static void main(String[] args) {
 		/*Leia um valor inteiro X (1 <= X <= 1000). Em seguida 

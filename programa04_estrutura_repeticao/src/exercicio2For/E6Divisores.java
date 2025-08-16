@@ -1,8 +1,8 @@
-package programa04_estrutura_repeticao_for;
+package exercicio2For;
 
 import java.util.Scanner;
 
-public class Divisores {
+public class E6Divisores {
 
 	public static void main(String[] args) {
 		//Ler um número inteiro N e calcular todos os seus divisores.

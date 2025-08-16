@@ -1,8 +1,8 @@
-package programa04_estrutura_repeticao_for;
+package exercicio2For;
 
 import java.util.Scanner;
 
-public class InOut {
+public class E2InOut {
 
 	public static void main(String[] args) {
 		/*Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X 

@@ -1,8 +1,8 @@
-package programa04_estrutura_repeticao_while;
+package exercicio1While;
 
 import java.util.Scanner;
 
-public class Combustivel {
+public class E3Combustivel {
 
 	public static void main(String[] args) {
 		/*Escreva um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte

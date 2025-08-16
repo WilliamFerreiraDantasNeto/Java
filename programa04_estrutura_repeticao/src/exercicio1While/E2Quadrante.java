@@ -1,8 +1,8 @@
-package programa04_estrutura_repeticao_while;
+package exercicio1While;
 
 import java.util.Scanner;
 
-public class Quadrante {
+public class E2Quadrante {
 
 	public static void main(String[] args) {
 		/*Escreva um programa para ler as coordenadas (X,Y) 

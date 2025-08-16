@@ -1,8 +1,8 @@
-package programa04_estrutura_repeticao_for;
+package exercicio2For;
 
 import java.util.Scanner;
 
-public class Fatorial {
+public class E5Fatorial {
 
 	public static void main(String[] args) {
 		/*Ler um valor N. Calcular e escrever seu respectivo fatorial. 

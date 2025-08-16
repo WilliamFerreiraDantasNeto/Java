@@ -1,8 +1,8 @@
-package programa04_estrutura_repeticao_while;
+package exercicio1While;
 
 import java.util.Scanner;
 
-public class AcessoPermitido {
+public class E1AcessoPermitido {
 
 	public static void main(String[] args) {
 		/*Escreva um programa que repita a leitura de uma senha até 
